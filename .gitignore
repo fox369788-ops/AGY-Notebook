@@ -1,0 +1,25 @@
+# Video and large media files
+*.mp4
+*.m4v
+*.mov
+*.avi
+*.mkv
+
+# Large textbook PDFs and Office presentations (keep repo lean)
+*.pdf
+*.pptx
+*.ppt
+*.docx
+
+# Temporary files and logs
+*.log
+*.tmp
+temp*
+__pycache__/
+*.pyc
+
+# Browser evidence and system generated cache
+browser_evidence/
+.system_generated/
+.DS_Store
+Thumbs.db
